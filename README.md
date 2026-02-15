@@ -63,7 +63,7 @@ While scientists focus on the **Object** (Comet), politicians fixate on the **Su
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 1. **Clone Repository:**
 ```bash
