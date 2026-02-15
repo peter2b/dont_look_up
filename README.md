@@ -104,4 +104,4 @@ Based on the original screenplay by Adam McKay.
 Analysis created for the seminar Inter-American Environmental Studies 25W 975.036  at University of Graz.
 
 **Author:** Peter Bauer
-**Date:** 2026
+**Date:** 15.2.2026
