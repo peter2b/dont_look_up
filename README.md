@@ -5,7 +5,7 @@
 
 This project analyzes the screenplay of Adam McKay's film *Don't Look Up* using **Natural Language Processing (NLP)** methods. The objective is to empirically demonstrate that the communicative failure depicted in the film is not merely a plot device, but a structural inevitability.
 
-By operationalizing sociological theories (Schütz, Lakoff) into measurable data vectors, the analysis proves that the catastrophe is caused not by a lack of intelligence, but by disjointed "finite provinces of meaning" and a lack of semantic intersection.
+By operationalizing sociological theories (Schütz, Lakoff) into measurable data vectors, the analysis proves that the catastrophe is caused not by a lack of knowledge, but by disjointed "finite provinces of meaning" and a lack of semantic intersection.
 
 ---
 
