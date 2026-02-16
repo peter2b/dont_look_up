@@ -1,7 +1,7 @@
 # Framing the End of the World. Analysis of the screenplay of "Don't Look Up"
 
 
-### A Computational Linguistic Analysis of Perceptual Structures (NLP)
+### A computational linguistic analysis of language structures
 
 This project analyzes the screenplay of Adam McKay's film *Don't Look Up* using **Natural Language Processing (NLP)** methods. The objective is to empirically demonstrate that the communicative failure depicted in the film is not merely a plot device, but a structural inevitability.
 
