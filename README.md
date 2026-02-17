@@ -52,9 +52,11 @@ Vector space analysis reveals that **Science** and **Activism**, though natural 
 ![A semantic gap](Heatmap.png)
 
 
-### 2. The Geometry of Reframing (Radar Chart)
+### 2. Competing Cognitive Frames (Radar Chart)
 
-Peter Isherwell (Capitalism) displays extreme "semantic monomania." His vocabulary almost entirely ignores the dimensions of "Panic" and "Politics," maximizing the "Profit" vector instead. This visually demonstrates the successful reframing of the catastrophe into a resource.
+Following Lakoff's theory that different worldviews activate distinct conceptual metaphors, the radar chart shows minimal shared semantic space. 
+
+![Competing cognitive Frames](Chart.png)
 
 
 ### 3. Divergent Relevance Structures (Bar Charts)
