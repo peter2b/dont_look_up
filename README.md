@@ -1,7 +1,7 @@
-# Framing the End of the World. Analysis of the screenplay of "Don't Look Up"
+# Framing the End of the World. A Computational Analysis of Semantic Divergence in "Don't Look Up"
 
 
-### A computational linguistic analysis of language structures
+### A linguistic analysis of language structures
 
 This project analyzes the screenplay of Adam McKay's film *Don't Look Up* using **Natural Language Processing (NLP)** methods. The objective is to empirically demonstrate that the communicative failure depicted in the film is not merely a plot device, but a structural inevitability.
 
@@ -11,7 +11,7 @@ By operationalizing sociological theories (Schütz, Lakoff) into measurable data
 
 ## Theoretical Framework
 
-The data analysis relies on two theoretical pillars:
+The data analysis is based on two theoretical approaches.:
 
 1. **Alfred Schütz (Phenomenological Sociology):** The theory of *Finite Provinces of Meaning*. The characters inhabit separated realities (Science vs. Media/Politics) between which no translation is possible.
 2. **George Lakoff (Cognitive Linguistics):** Theories of *Framing* and *Hypocognition*. The study investigates how threats ("Comet") are linguistically reframed into market opportunities ("Assets") and why society lacks the cognitive frames to grasp "The End" (Hypocognition).
@@ -20,15 +20,13 @@ The data analysis relies on two theoretical pillars:
 
 ## Methodology & Tech Stack
 
-The approach follows the principle of **"Computational Distant Reading"**.
-
 * **Language:** Python 3.x
 * **Libraries:** `spaCy`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn`, `nltk`, `wordcloud`
 * **Model:** `en_core_web_md` (utilizing 300-dimensional Word Embeddings)
 
-### Pipeline
+### Steps
 
-1. **Parsing:** Extraction of dialogue from the raw screenplay & cleaning (removal of stage directions).
+1. **Parsing:** Extraction of dialogue from the raw screenplay & cleaning (removal of stage directions and metadata).
 2. **Clustering:** Aggregation of characters into 4 sociological archetypes:
 * 1. **SCIENCE** (Dr. Mindy, Dr. Oglethorpe)
 * 2. **ACTIVISM** (Kate Dibiasky)
@@ -47,9 +45,11 @@ The approach follows the principle of **"Computational Distant Reading"**.
 
 ## Key Findings
 
-### 1. The Semantic Rift (Heatmap)
+### 1. The Semantic Gap (Heatmap)
 
-Vector space analysis reveals that **Science** and **Activism**—though natural allies—share a semantic similarity of only **0.40**. They utilize incompatible codes (Rationality vs. Morality). Simultaneously, Science exhibits a dangerous proximity to Capitalism (**0.63**), explaining its vulnerability to technocratic co-optation.
+Vector space analysis reveals that **Science** and **Activism**, though natural allies, share a semantic similarity of only **0.40**. They utilize incompatible codes (Rationality vs. Morality). Simultaneously, Science exhibits a dangerous proximity to Capitalism (**0.63**), explaining its vulnerability to technocratic co-optation.
+
+![A semantic gap](Heatmap.png)
 
 
 ### 2. The Geometry of Reframing (Radar Chart)
