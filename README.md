@@ -103,7 +103,7 @@ jupyter notebook Frame_Analysis_DONT_LOOK_UP_fin.ipynb
 
 ## License & Credits
 
-This analysis is based on the original screenplay by Adam McKay (Don't Look Up, 2021). 
+This analysis is based on the original screenplay by Adam McKay&Sirota (Don't Look Up, 2021). 
 Created for the seminar Inter-American Environmental Studies (25W 975.036) at the University of Graz.
 
 **Author:** Peter Bauer
