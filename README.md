@@ -62,6 +62,7 @@ Following Lakoff's theory that different worldviews activate distinct conceptual
 ### 3. Divergent Relevance Structures (Bar Charts)
 
 While scientists focus on the **Object** (Comet), politicians fixate on the **Subject** (Voters/Crowd). There is no intersection in their relevance structures. Furthermore, the analysis shows that terms like "Death" appear in the Capitalist cluster but are technocratically redefined (as "Evolution" or "Algorithm").
+![Shared vocabulary vs divergent rhetoric](Freq_Words.png)
 
 ---
 
@@ -102,8 +103,8 @@ jupyter notebook Frame_Analysis_DONT_LOOK_UP_fin.ipynb
 
 ## License & Credits
 
-Based on the original screenplay by Adam McKay.
-Analysis created for the seminar Inter-American Environmental Studies 25W 975.036  at University of Graz.
+Analysis uses the original screenplay by Adam McKay.
+Created for the seminar Inter-American Environmental Studies 25W 975.036  at University of Graz.
 
 **Author:** Peter Bauer
 **Date:** 15.2.2026
